@@ -1,6 +1,7 @@
 ----- EN -----
 
 👋 Hi, I'm PR-sec - Real Name - Roman 
+
 🛡️ About Me
 
 Beginner SOC Analyst focused on threat detection, log analysis, and incident response.
@@ -26,8 +27,11 @@ Other: VirusTotal, Any.run
 Here are some of my practical works:
 
 🔍 Phishing Email Analysis
+
 🚨 Brute Force Detection Lab
+
 🦠 Malware Analysis (sandbox)
+
 📊 SIEM Use Cases
 
 👉 Check my repositories for detailed reports and investigations.
@@ -35,16 +39,19 @@ Here are some of my practical works:
 📚 Learning Platforms
 TryHackMe
 Hack The Box
+
 📈 Currently Learning
 Advanced SIEM queries
 Detection rules (Sigma)
 Incident response workflows
+
 📫 Contact Me
 Email: doomchacha@yandex.ru
 
 ----- RU -----
 
 👋 Привет, я PR-sec - Настоящее имя - Роман
+
 🛡️ Обо мне
 
 Начинающий SOC-аналитик, сфокусированный на обнаружении угроз, анализе логов и реагировании на инциденты.
@@ -65,13 +72,18 @@ SIEM: Splunk, Wazuh
 Сети: Wireshark
 ОС: Linux, Windows
 Дополнительно: VirusTotal, Any.run
+
 📂 Проекты
 
 Здесь представлены мои практические работы:
 
+
 🔍 Анализ фишинговых писем
+
 🚨 Лабораторная работа: обнаружение brute-force атак
+
 🦠 Анализ вредоносного ПО (sandbox)
+
 📊 Use-cases для SIEM
 
 👉 Смотри репозитории для подробных отчётов и расследований.
@@ -79,10 +91,12 @@ SIEM: Splunk, Wazuh
 📚 Платформы обучения
 TryHackMe
 Hack The Box
+
 📈 Сейчас изучаю
 Продвинутые запросы в SIEM
 Detection rules (Sigma)
 Процессы реагирования на инциденты
+
 📫 Связаться со мной
 Email: doomchacha@yandex.ru
 
