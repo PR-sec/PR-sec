@@ -47,7 +47,7 @@ powershell -enc SQB1AHgA
 | 4103 | Module logging |
 | 4104 | Script block logging |
 
-![4104](screenshots/event-4104.png)
+![4104](screenshots/event-4104-overviev.png)
 
 ![4103](screenshots/event-4103.png)
 
