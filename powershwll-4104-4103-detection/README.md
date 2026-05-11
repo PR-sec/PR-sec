@@ -26,7 +26,7 @@ HKLM\SOFTWARE\Policies\Microsoft\Windows\PowerShell\ScriptBlockLogging
 EnableScriptBlockLogging = 1
 ```
 
-![Enable Logging](screenshots/enable-scriptblocklogging.png)
+![Enable Logging](screenshots/powershell-logging-enabled.png)
 
 ---
 
