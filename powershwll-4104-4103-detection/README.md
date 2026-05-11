@@ -79,3 +79,7 @@ Reviewed raw XML event data.
 |---|---|
 | PowerShell | T1059.001 |
 | Obfuscated Files | T1027 |
+
+# Conclusion
+
+This lab demonstrates how PowerShell logging can be used to detect suspicious activity through Event IDs 4103 and 4104.
