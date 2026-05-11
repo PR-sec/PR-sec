@@ -69,7 +69,7 @@ powershell -enc SQB1AHgA
 
 Reviewed raw XML event data.
 
-![XML](screenshots/ent-4103-details.png)
+![XML](screenshots/vent-4103-details.png)
 
 ---
 
