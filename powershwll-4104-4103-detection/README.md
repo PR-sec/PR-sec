@@ -36,7 +36,7 @@ EnableScriptBlockLogging = 1
 powershell -enc SQB1AHgA
 ```
 
-![Encoded Command](screenshots/encoded-command.png)
+![Encoded Command](screenshots/powershell-logging-enabled.png)
 
 ---
 
