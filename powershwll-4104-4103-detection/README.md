@@ -49,7 +49,7 @@ powershell -enc SQB1AHgA
 
 ![4104](screenshots/event-4104-overviev.png)
 
-![4103](screenshots/event-4103.png)
+![4103](screenshots/vent-4103-details.png)
 
 ---
 
